@@ -1,0 +1,129 @@
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form2.resources
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.vbproj.GenerateResource.Cache
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+D:\GALUH\TITIPAN\Angkatan 16\okta\Semester Pendek\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pendaftaran.resources
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form2.resources
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pendaftaran.resources
+E:\TITIPAN\ANGKATAN 16\fenita oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.vbproj.GenerateResource.Cache
+F:\fenita Oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+F:\fenita Oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+F:\fenita Oktaviani\Semester Pendek\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+D:\B-TITIPAN\fenita\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+D:\B-TITIPAN\fenita\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+D:\B-TITIPAN\fenita\vb\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataDiri.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form2.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.nextpendaftaran.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.vbproj.GenerateResource.Cache
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataOrtu.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.LihatData.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataDiri.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataOrtu.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPekerjaan.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPendidikan.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPrestasi.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahPengalamanOrganisasi.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahRiwayatKesehatan.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.CariUbah.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Hapus.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Prodi.resources
+E:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.profil.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.CariUbah.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataDiri.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataOrtu.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form2.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Hapus.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.LihatData.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.nextpendaftaran.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Prodi.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.profil.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataDiri.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataOrtu.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPekerjaan.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPendidikan.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPrestasi.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahPengalamanOrganisasi.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahRiwayatKesehatan.resources
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.vbproj.GenerateResource.Cache
+E:\TITIPAN\fenita okta\vb\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.CariUbah.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataDiri.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataOrtu.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form2.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Hapus.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.LihatData.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.nextpendaftaran.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Prodi.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.profil.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataDiri.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataOrtu.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPekerjaan.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPendidikan.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPrestasi.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahPengalamanOrganisasi.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahRiwayatKesehatan.resources
+D:\FENITA\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.vbproj.GenerateResource.Cache
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.exe
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.xml
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.pdb
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.exe
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.pdb
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\bin\Debug\AplikasiPendaftaranMaba.xml
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataDiri.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.DataOrtu.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Form1.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.LihatData.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.Resources.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.nextpendaftaran.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataDiri.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataOrtu.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPekerjaan.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPendidikan.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahDataPrestasi.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahPengalamanOrganisasi.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.UbahRiwayatKesehatan.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.MenuUbah.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.MenuUtama.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.HapusData.resources
+D:\KULIAH\SEMESTER PENDEK\VB\project\AplikasiPendaftaranMaba\AplikasiPendaftaranMaba\obj\x86\Debug\AplikasiPendaftaranMaba.VisiMisi.resources
